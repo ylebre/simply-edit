@@ -18,8 +18,8 @@
 		"meta description": {
 			"content": "Simply-edit demo site"
 		},
-		"project-name": "Simply&nbsp;edit vocabulary",
-		"project-tagline": "Quick integration guide",
+		"project-name": "Quick integration guide",
+		"project-tagline": "How to deploy the Vedor editor on your site",
 		"link": {
 			"href": "#vedor-edit",
 			"class": "btn",
