@@ -59,5 +59,23 @@
 		"image": {
 			"src": "/simply-edit/imgs/muze.png"
 		}
+	},
+	"/simply-edit/frop.html": {
+		"meta title": "Simple edit",
+		"meta description": {
+			"content": "Simple edit testpage description"
+		},
+		"meta robots": {
+			"content": "noindex,nofollow"
+		},
+		"meta author": {},
+		"data-vedor-page-template": {
+			"content": "index-1.html"
+		},
+		"title": "Thing goes here",
+		"page content": "Other things go here",
+		"image": {
+			"src": "/simply-edit/imgs/muze.png"
+		}
 	}
 }
