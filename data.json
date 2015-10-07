@@ -55,7 +55,7 @@
 			"content": "index.html"
 		},
 		"title": "Thing goes here",
-		"page content": "Other things go here test",
+		"page content": "Other things go here <a href=\"frop.html\">test</a>",
 		"image": {
 			"src": "/simply-edit/imgs/muze.png"
 		}
