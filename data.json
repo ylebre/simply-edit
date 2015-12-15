@@ -103,8 +103,8 @@
 		"meta description": {
 			"content": "Simply-edit demo site!!"
 		},
-		"project-name": "Simply-edit",
-		"project-tagline": "Testsite for editor",
+		"project-name": "Adding field types",
+		"project-tagline": "Customizing Simply edit",
 		"link": {
 			"innerHTML": "Edit me!",
 			"href": "#simply-edit",
